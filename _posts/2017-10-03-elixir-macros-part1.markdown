@@ -80,4 +80,4 @@ Now note line 7, specifically `unquote(message)`. If we did omitted `unquote()`,
 
 # Conclusion
 
-We can conclude that expanded Macros yield some code representation that is then injected into the AST representing the Macro-calling module. When we want to inject values into that code representation (e.g, Macro arguments, results of functions), we have to use `unquote`. Otherwise the code is just executed in exactly the way we write it in `quote`.
+We can conclude that expanded Macros yield some code representation that is then injected into the AST representing the Macro-calling module. When we want to inject values into that code representation (e.g, Macro function arguments), we have to use `unquote`. Otherwise the code is just executed in exactly the way we write it in `quote`.
