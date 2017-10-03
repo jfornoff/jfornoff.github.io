@@ -2,7 +2,7 @@
 layout: post
 title:  "Cold showers every day"
 date:   2017-08-24 08:00:00 +0200
-categories: life self-improvement
+permalink: /cold-showers
 ---
 
 A while ago, I read [this article](http://www.kyleschen.com/2017/04/11/what-do-you-want-to-want/) by Kyle Eschenroeder. It talks about some heuristics in striving for a fulfilled life and some pitfalls you might want to avoid in today’s society, where you can essentially pursue whatever you want.
