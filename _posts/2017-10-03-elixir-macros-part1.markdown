@@ -81,3 +81,13 @@ Now note line 7, specifically `unquote(message)`. If we did omitted `unquote()`,
 # Conclusion
 
 We can conclude that expanded Macros yield some code representation that is then injected into the AST representing the Macro-calling module. When we want to inject values into that code representation (e.g, Macro function arguments), we have to use `unquote`. Otherwise the code is just executed in exactly the way we write it in `quote`.
+
+# References
+
+If you'd like a much longer and more in-depth resource on Elixir Macro mechanics, I highly recommend [Saša Jurić's series of blog posts on Macros](http://www.theerlangelist.com/article/macros_1)!
+
+# Up next
+
+Macros are constructs that make code and the origin of functionality slightly less obvious because they inject code into your modules AST. This is intended and necessary to create more concise and succinct code, but makes it more challenging to track down how things actually work.
+
+Therefore Part 2 will be about Macro Archaeology and how to dig up functionality if you want to dive in the nitty-gritty hidden details.
