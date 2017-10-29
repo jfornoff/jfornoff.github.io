@@ -2,6 +2,8 @@
 layout: post
 title: "Mix xref to the rescue!"
 date: "2017-10-28 10:15:04 +0200"
+categories:
+ - elixir
 ---
 
 [Last week]({% post_url 2017-10-21-getting-started-with-mix-format %}), i told you about the soon-included code formatter in the standard Elixir build tool [**Mix**](https://hexdocs.pm/mix/Mix.html).
