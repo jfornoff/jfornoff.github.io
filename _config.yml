@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.janfornoff.com"
 twitter_username: JanFornoff
 github_username:  jfornoff
+speakerdeck_username:  jfornoff
 
 # Build settings
 markdown: kramdown
