@@ -48,3 +48,5 @@ This does not mean getting pessimistic or even fatalistic. This means realizing 
 > All we have is on loan from Fortune, which can reclaim it at any time, and without advance notice.
 
 Re-learning to appreciate what we have can cut the cycle of wanting and chasing the next thing in pursuit of satisfaction short. It puts our first world problems into perspective.
+
+Again, observe how this lends itself to attaining _Tranquility_ by taking away the negative emotion of being unfulfilled because you don't have the new iPhone X, and replacing it with the gratitude for having a phone that allows you to talk to your loved ones from anywhere.
