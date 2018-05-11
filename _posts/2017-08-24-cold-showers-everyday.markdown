@@ -20,10 +20,9 @@ No 2-hour wake up stagger until you hit your stride. This synergizes nicely with
 This in itself is worthwhile, but you also want to practice getting out of your comfort zone over and over.
 Getting it done first thing in the morning allows you to:
 
--   Form a habit very easily
--   Not be as tempted to skip it, because it sucks (it does)
-    Most people tend to not think a lot right after getting up, this helps.
--   Health benefits
-    There probably are some, but I don’t even care.
+1. Form a habit very easily!
+2. Not be as tempted to skip it, because it sucks (it does). \\
+   Most people tend to not think a lot right after getting up, this helps.
+3. Health benefits: There probably are some, but I don’t even care.
 
 That’s it for my first post.
